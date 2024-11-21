@@ -1,8 +1,4 @@
-### **README.md**
-
 # **Ionic Vue Firebase Authentication**
-
-Aplikasi ini menggunakan **Ionic Framework** dan **Firebase** untuk melakukan autentikasi menggunakan Google. Berikut adalah langkah-langkah untuk mengatur autentikasi login hingga mendapatkan informasi profil pengguna dari akun Google.
 
 ---
 
