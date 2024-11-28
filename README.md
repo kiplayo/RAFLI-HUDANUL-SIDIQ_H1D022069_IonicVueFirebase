@@ -208,4 +208,3 @@ void markAsComplete(int index) {
 
 ---
 
-Semoga template ini membantu, dan Anda dapat menambahkan detail lebih sesuai dengan aplikasi yang sedang Anda kerjakan! 😊
