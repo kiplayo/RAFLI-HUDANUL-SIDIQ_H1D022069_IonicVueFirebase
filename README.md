@@ -1,4 +1,4 @@
-Berikut adalah template README.md dengan penjelasan tambahan menggunakan kode yang relevan untuk setiap tampilan. Sesuaikan kode dengan implementasi Anda.
+
 
 ---
 
@@ -6,7 +6,7 @@ Berikut adalah template README.md dengan penjelasan tambahan menggunakan kode ya
 
 ## 1. Tampilan Awal Setelah Login
 
-![Tampilan Awal Setelah Login](tampilan_awal_setelah_login.png)
+![Tampilan Awal Setelah Login](101.png)
 
 Setelah login berhasil, pengguna diarahkan ke halaman utama yang menampilkan daftar todo. Data ditampilkan menggunakan `ListView.builder` untuk memuat daftar secara dinamis dari API atau database.
 
