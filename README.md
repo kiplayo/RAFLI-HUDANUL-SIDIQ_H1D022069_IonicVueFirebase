@@ -38,7 +38,7 @@ Widget build(BuildContext context) {
 
 ## 2. Tampilan Tambah Data
 
-![Tampilan Tambah Data](tampilan_tambah_data.png)
+![Tampilan Tambah Data](102.png)
 
 Formulir untuk menambahkan data todo terdiri dari input untuk nama tugas, deskripsi, dan tanggal jatuh tempo. Data dikirim menggunakan fungsi `addTodo`.
 
@@ -89,7 +89,7 @@ Widget build(BuildContext context) {
 
 ## 3. Tampilan Edit Data
 
-![Tampilan Edit Data](tampilan_edit_data.png)
+![Tampilan Edit Data](103.png)
 
 Halaman ini memungkinkan pengguna memperbarui data todo yang sudah ada.
 
@@ -136,7 +136,7 @@ Widget build(BuildContext context) {
 
 ## 4. Tampilan Delete Data
 
-![Tampilan Delete Data](tampilan_delete_data.png)
+![Tampilan Delete Data](104.png)
 
 Fitur ini menghapus data todo setelah konfirmasi.
 
@@ -176,7 +176,7 @@ void confirmDelete(int index) {
 
 ## 5. Tampilan Update Status
 
-![Tampilan Update Status](tampilan_update_status.png)
+![Tampilan Update Status](105.png)
 
 Pengguna dapat mengubah status todo, seperti dari "Belum Selesai" menjadi "Sedang Dikerjakan."
 
@@ -193,7 +193,7 @@ void updateStatus(int index, bool isCompleted) {
 
 ## 6. Tampilan Complete Todo
 
-![Tampilan Complete Todo](tampilan_complete_todo.png)
+![Tampilan Complete Todo](106.png)
 
 Fitur ini memungkinkan pengguna untuk menandai todo sebagai selesai.
 
